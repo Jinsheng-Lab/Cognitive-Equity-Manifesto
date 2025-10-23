@@ -31,7 +31,7 @@ A Vision for Conscious and Symbiotic Future - 关于清醒与共生未来的愿�
 
 - **👥 加入我们**
     - 我们正在寻找哲学家、科学家、工程师与战略家，成为共同定义未来的 **“奠基者”**。
-    - 欢迎通过 **[你的邮箱地址]** 与我们初步联系。
+    - 欢迎通过 **hellon@jinshenglab.cn** 与我们初步联系。
 
 ### 许可证 (License)
 
@@ -61,7 +61,7 @@ We are committed to practicing and developing a meta-framework aimed at achievin
 
 - **👥 Join Us**
     - We are looking for philosophers, scientists, engineers, and strategists to become **"Foundational Builders"** who co-define the future.
-    - Please feel free to reach out via **[Your Email Address]** for an initial conversation.
+    - Please feel free to reach out via **hellon@jinshenglab.cn** for an initial conversation.
 
 ### License
 
